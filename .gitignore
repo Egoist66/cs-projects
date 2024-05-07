@@ -1,0 +1,55 @@
+# Compiled files
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.csproj
+*.sln
+*.vspscc
+*.vssscc
+*.pubxml
+*.publishproj
+*.vcxproj
+*.vcproj
+*.xproj
+*.proj
+*.proj.user
+*.user
+*.sln.docstates
+
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+packages/
+
+# Web-specific
+*.log
+*.cache
+*.tmp
+*.tmp_proj
+*.bak
+*.cache
+*.compiled
+
+# Others
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+BuildManifest.xml
