@@ -25,11 +25,18 @@ namespace ConsoleApp1
 
             Console.WriteLine(obj.GenericMethod());
 
-
-            Console.Write("Введите свое имя: ");
+            Console.Write("Enter your name: ");
             string? name2 = Console.ReadLine();
-            Console.WriteLine($"Привет {name2}");
+            Console.WriteLine($"Hello {name2}");
 
+            Console.WriteLine("Press any key...");
+            Console.ReadKey();
+
+            //    ulong a = 17878103347812890000;
+            //    byte b = 200;
+        
+
+            //ushort a2 = 65535; 256 * 256
         }
     }
 
@@ -49,7 +56,7 @@ namespace ConsoleApp1
 
 }
 
-
+// https://www.youtube.com/watch?v=fNjVCSEXpDM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=4&ab_channel=%23SimpleCode
 /*
 
     Convert.ToInt32() (преобразует к типу int)

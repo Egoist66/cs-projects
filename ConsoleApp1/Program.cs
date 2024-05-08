@@ -29,6 +29,7 @@ namespace ConsoleApp1
             }
 
             Program2.Init();
+            
         }
     }
 }
