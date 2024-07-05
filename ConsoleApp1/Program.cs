@@ -7,7 +7,8 @@ namespace ConsoleApp1
     {
         static void Main()
         {
-            string[] arr = ["farid", "jack", "peter"];
+            /*string[] arr = ["farid", "jack", "peter"];
+
 
             for (int i = 0; i < arr.Length; i++)
             {
@@ -26,9 +27,10 @@ namespace ConsoleApp1
             foreach (string part in parts)
             {
                 Console.WriteLine(part);
-            }
+            }*/
 
             Program2.Init();
+            Program3.Init();
             
         }
     }

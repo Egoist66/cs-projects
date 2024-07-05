@@ -1,14 +1,12 @@
 namespace ConsoleApp1
 {
-    public class Program2
+    public class Program3
     {
-
-
 
         public static void Init()
         {
 
-
+/*
 
             var name = "Peter";
             var numeric = "2";
@@ -22,7 +20,7 @@ namespace ConsoleApp1
             Console.WriteLine(name.GetType());
 
             var obj = new GenericClass<int>(3 * 10);
-
+       
             Console.WriteLine(obj.GenericMethod());
 
             Console.Write("Enter your name: ");
@@ -30,7 +28,7 @@ namespace ConsoleApp1
             Console.WriteLine($"Hello {name2}");
 
             Console.WriteLine("Press any key...");
-            Console.ReadKey();
+            Console.ReadKey();*/
 
             //    ulong a = 17878103347812890000;
             //    byte b = 200;
